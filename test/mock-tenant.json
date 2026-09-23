@@ -1,0 +1,2330 @@
+{
+ "organization": {
+  "displayName": "Contoso Nordics AB",
+  "id": "5f1c2b0e-9d4a-4b7f-8e1c-000000000001"
+ },
+ "tenant": {
+  "sharingCapability": "ExternalUserAndGuestSharing",
+  "requireAnonymousLinksExpireInDays": 0,
+  "defaultSharingLinkType": "Internal",
+  "entraP1": true
+ },
+ "guests": [
+  {
+   "displayName": "Ola Dahl0",
+   "upn": "ola.dahl0_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "ola.dahl0@wingtiptoys.no",
+   "enabled": false,
+   "created": "2024-05-07T00:00:00Z",
+   "lastSignIn": "2026-09-01T00:00:00Z"
+  },
+  {
+   "displayName": "Kari Nilsen1",
+   "upn": "kari.nilsen1_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "kari.nilsen1@wingtiptoys.no",
+   "enabled": true,
+   "created": "2024-03-20T00:00:00Z",
+   "lastSignIn": "2025-01-13T00:00:00Z"
+  },
+  {
+   "displayName": "Petter Berg2",
+   "upn": "petter.berg2_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "petter.berg2@fabrikam.com",
+   "enabled": true,
+   "created": "2025-09-30T00:00:00Z",
+   "lastSignIn": "2026-08-11T00:00:00Z"
+  },
+  {
+   "displayName": "Anna Moe3",
+   "upn": "anna.moe3_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "anna.moe3@adatum.dk",
+   "enabled": true,
+   "created": "2023-06-25T00:00:00Z",
+   "lastSignIn": "2024-12-30T00:00:00Z"
+  },
+  {
+   "displayName": "Axel Koski4",
+   "upn": "axel.koski4_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "axel.koski4@northwind.se",
+   "enabled": true,
+   "created": "2025-04-25T00:00:00Z",
+   "lastSignIn": "2026-09-04T00:00:00Z"
+  },
+  {
+   "displayName": "Hanna Nilsen5",
+   "upn": "hanna.nilsen5_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "hanna.nilsen5@fabrikam.com",
+   "enabled": true,
+   "created": "2025-10-31T00:00:00Z",
+   "lastSignIn": "2026-08-13T00:00:00Z"
+  },
+  {
+   "displayName": "Tomas Berg6",
+   "upn": "tomas.berg6_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "tomas.berg6@wingtiptoys.no",
+   "enabled": false,
+   "created": "2024-11-29T00:00:00Z",
+   "lastSignIn": "2026-08-30T00:00:00Z"
+  },
+  {
+   "displayName": "Henrik Nilsen7",
+   "upn": "henrik.nilsen7_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "henrik.nilsen7@fabrikam.com",
+   "enabled": true,
+   "created": "2024-11-15T00:00:00Z",
+   "lastSignIn": "2026-09-08T00:00:00Z"
+  },
+  {
+   "displayName": "Ingrid Moe8",
+   "upn": "ingrid.moe8_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "ingrid.moe8@fabrikam.com",
+   "enabled": true,
+   "created": "2026-03-09T00:00:00Z",
+   "lastSignIn": "2026-09-11T00:00:00Z"
+  },
+  {
+   "displayName": "Eva Lund9",
+   "upn": "eva.lund9_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "eva.lund9@fabrikam.com",
+   "enabled": true,
+   "created": "2024-05-01T00:00:00Z",
+   "lastSignIn": "2026-08-05T00:00:00Z"
+  },
+  {
+   "displayName": "Liv Berg10",
+   "upn": "liv.berg10_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "liv.berg10@wingtiptoys.no",
+   "enabled": true,
+   "created": "2024-03-28T00:00:00Z",
+   "lastSignIn": "2026-03-28T00:00:00Z"
+  },
+  {
+   "displayName": "Ola Jensen11",
+   "upn": "ola.jensen11_litware_fi#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "ola.jensen11@litware.fi",
+   "enabled": true,
+   "created": "2023-10-29T00:00:00Z",
+   "lastSignIn": "2026-09-08T00:00:00Z"
+  },
+  {
+   "displayName": "Hanna Dahl12",
+   "upn": "hanna.dahl12_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "hanna.dahl12@northwind.se",
+   "enabled": true,
+   "created": "2026-04-14T00:00:00Z",
+   "lastSignIn": "2026-08-12T00:00:00Z"
+  },
+  {
+   "displayName": "Ingrid Nilsen13",
+   "upn": "ingrid.nilsen13_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "ingrid.nilsen13@fabrikam.com",
+   "enabled": true,
+   "created": "2025-01-13T00:00:00Z",
+   "lastSignIn": null
+  },
+  {
+   "displayName": "Lars Lund14",
+   "upn": "lars.lund14_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "lars.lund14@adatum.dk",
+   "enabled": true,
+   "created": "2024-12-13T00:00:00Z",
+   "lastSignIn": null
+  },
+  {
+   "displayName": "Eva Holm15",
+   "upn": "eva.holm15_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "eva.holm15@wingtiptoys.no",
+   "enabled": true,
+   "created": "2023-12-26T00:00:00Z",
+   "lastSignIn": "2025-07-02T00:00:00Z"
+  },
+  {
+   "displayName": "Ola Jensen16",
+   "upn": "ola.jensen16_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "ola.jensen16@adatum.dk",
+   "enabled": true,
+   "created": "2025-02-14T00:00:00Z",
+   "lastSignIn": null
+  },
+  {
+   "displayName": "Axel Lund17",
+   "upn": "axel.lund17_outlook_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "axel.lund17@outlook.com",
+   "enabled": true,
+   "created": "2024-02-03T00:00:00Z",
+   "lastSignIn": null
+  },
+  {
+   "displayName": "Lars Holm18",
+   "upn": "lars.holm18_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "lars.holm18@northwind.se",
+   "enabled": true,
+   "created": "2023-12-05T00:00:00Z",
+   "lastSignIn": "2025-07-10T00:00:00Z"
+  },
+  {
+   "displayName": "Emma Moe19",
+   "upn": "emma.moe19_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "emma.moe19@wingtiptoys.no",
+   "enabled": true,
+   "created": "2025-08-17T00:00:00Z",
+   "lastSignIn": null
+  },
+  {
+   "displayName": "Petter Berg20",
+   "upn": "petter.berg20_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "petter.berg20@fabrikam.com",
+   "enabled": true,
+   "created": "2026-05-25T00:00:00Z",
+   "lastSignIn": "2026-08-20T00:00:00Z"
+  },
+  {
+   "displayName": "Anna Holm21",
+   "upn": "anna.holm21_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "anna.holm21@northwind.se",
+   "enabled": true,
+   "created": "2026-05-11T00:00:00Z",
+   "lastSignIn": "2026-08-25T00:00:00Z"
+  },
+  {
+   "displayName": "Maria Lund22",
+   "upn": "maria.lund22_gmail_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "maria.lund22@gmail.com",
+   "enabled": true,
+   "created": "2026-03-27T00:00:00Z",
+   "lastSignIn": null
+  },
+  {
+   "displayName": "Anna Nilsen23",
+   "upn": "anna.nilsen23_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "anna.nilsen23@adatum.dk",
+   "enabled": true,
+   "created": "2023-12-07T00:00:00Z",
+   "lastSignIn": "2026-09-10T00:00:00Z"
+  },
+  {
+   "displayName": "Henrik Nilsen24",
+   "upn": "henrik.nilsen24_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "henrik.nilsen24@northwind.se",
+   "enabled": true,
+   "created": "2023-12-20T00:00:00Z",
+   "lastSignIn": "2026-08-14T00:00:00Z"
+  },
+  {
+   "displayName": "Axel Berg25",
+   "upn": "axel.berg25_gmail_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "axel.berg25@gmail.com",
+   "enabled": true,
+   "created": "2025-12-15T00:00:00Z",
+   "lastSignIn": "2026-05-09T00:00:00Z"
+  },
+  {
+   "displayName": "Henrik Moe26",
+   "upn": "henrik.moe26_litware_fi#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "henrik.moe26@litware.fi",
+   "enabled": true,
+   "created": "2025-04-07T00:00:00Z",
+   "lastSignIn": "2026-07-29T00:00:00Z"
+  },
+  {
+   "displayName": "Lars Nilsen27",
+   "upn": "lars.nilsen27_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "lars.nilsen27@northwind.se",
+   "enabled": true,
+   "created": "2025-02-16T00:00:00Z",
+   "lastSignIn": "2026-09-14T00:00:00Z"
+  },
+  {
+   "displayName": "Maria Holm28",
+   "upn": "maria.holm28_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "maria.holm28@wingtiptoys.no",
+   "enabled": true,
+   "created": "2025-03-10T00:00:00Z",
+   "lastSignIn": "2026-08-21T00:00:00Z"
+  },
+  {
+   "displayName": "Axel Dahl29",
+   "upn": "axel.dahl29_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "axel.dahl29@wingtiptoys.no",
+   "enabled": true,
+   "created": "2024-03-21T00:00:00Z",
+   "lastSignIn": null
+  },
+  {
+   "displayName": "Ingrid Jensen30",
+   "upn": "ingrid.jensen30_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "ingrid.jensen30@wingtiptoys.no",
+   "enabled": true,
+   "created": "2025-06-07T00:00:00Z",
+   "lastSignIn": "2025-10-10T00:00:00Z"
+  },
+  {
+   "displayName": "Axel Moe31",
+   "upn": "axel.moe31_litware_fi#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "axel.moe31@litware.fi",
+   "enabled": false,
+   "created": "2025-12-29T00:00:00Z",
+   "lastSignIn": null
+  },
+  {
+   "displayName": "Mats Koski32",
+   "upn": "mats.koski32_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "mats.koski32@fabrikam.com",
+   "enabled": true,
+   "created": "2026-04-18T00:00:00Z",
+   "lastSignIn": "2026-07-20T00:00:00Z"
+  },
+  {
+   "displayName": "Kari Koski33",
+   "upn": "kari.koski33_litware_fi#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "kari.koski33@litware.fi",
+   "enabled": true,
+   "created": "2025-05-17T00:00:00Z",
+   "lastSignIn": "2026-08-30T00:00:00Z"
+  },
+  {
+   "displayName": "Jonas Jensen34",
+   "upn": "jonas.jensen34_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "jonas.jensen34@adatum.dk",
+   "enabled": true,
+   "created": "2026-03-28T00:00:00Z",
+   "lastSignIn": "2026-08-04T00:00:00Z"
+  },
+  {
+   "displayName": "Emma Holm35",
+   "upn": "emma.holm35_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "emma.holm35@wingtiptoys.no",
+   "enabled": true,
+   "created": "2026-05-02T00:00:00Z",
+   "lastSignIn": null
+  },
+  {
+   "displayName": "Jonas Holm36",
+   "upn": "jonas.holm36_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "jonas.holm36@fabrikam.com",
+   "enabled": true,
+   "created": "2026-01-02T00:00:00Z",
+   "lastSignIn": "2026-08-14T00:00:00Z"
+  },
+  {
+   "displayName": "Sofia Jensen37",
+   "upn": "sofia.jensen37_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+   "mail": "sofia.jensen37@fabrikam.com",
+   "enabled": true,
+   "created": "2023-09-05T00:00:00Z",
+   "lastSignIn": null
+  }
+ ],
+ "groups": [
+  {
+   "mail": "salesemea@contosonordics.com",
+   "displayName": "Sales EMEA",
+   "ownerCount": 2,
+   "label": null,
+   "visibility": "Private"
+  },
+  {
+   "mail": "finance@contosonordics.com",
+   "displayName": "Finance",
+   "ownerCount": 3,
+   "label": "Public",
+   "visibility": "Public"
+  },
+  {
+   "mail": "hr@contosonordics.com",
+   "displayName": "HR",
+   "ownerCount": 2,
+   "label": null,
+   "visibility": "Private"
+  },
+  {
+   "mail": "marketing@contosonordics.com",
+   "displayName": "Marketing",
+   "ownerCount": 2,
+   "label": "Highly Confidential",
+   "visibility": "Public"
+  },
+  {
+   "mail": "legal@contosonordics.com",
+   "displayName": "Legal",
+   "ownerCount": 3,
+   "label": "Public",
+   "visibility": "Private"
+  },
+  {
+   "mail": "board@contosonordics.com",
+   "displayName": "Board",
+   "ownerCount": 3,
+   "label": null,
+   "visibility": "Public"
+  },
+  {
+   "mail": "product@contosonordics.com",
+   "displayName": "Product",
+   "ownerCount": 3,
+   "label": "Public",
+   "visibility": "Public"
+  },
+  {
+   "mail": "engineering@contosonordics.com",
+   "displayName": "Engineering",
+   "ownerCount": 2,
+   "label": "General",
+   "visibility": "Public"
+  },
+  {
+   "mail": "customersuccess@contosonordics.com",
+   "displayName": "Customer Success",
+   "ownerCount": 1,
+   "label": "Confidential",
+   "visibility": "Private"
+  },
+  {
+   "mail": "itoperations@contosonordics.com",
+   "displayName": "IT Operations",
+   "ownerCount": 1,
+   "label": null,
+   "visibility": "Private"
+  },
+  {
+   "mail": "procurement@contosonordics.com",
+   "displayName": "Procurement",
+   "ownerCount": 1,
+   "label": "General",
+   "visibility": "Private"
+  },
+  {
+   "mail": "facilities@contosonordics.com",
+   "displayName": "Facilities",
+   "ownerCount": 2,
+   "label": null,
+   "visibility": "Private"
+  },
+  {
+   "mail": "maprojectfalcon@contosonordics.com",
+   "displayName": "M&A Project Falcon",
+   "ownerCount": 0,
+   "label": null,
+   "visibility": "Private"
+  },
+  {
+   "mail": "payroll@contosonordics.com",
+   "displayName": "Payroll",
+   "ownerCount": 1,
+   "label": "Confidential",
+   "visibility": "Private"
+  },
+  {
+   "mail": "allhands@contosonordics.com",
+   "displayName": "All Hands",
+   "ownerCount": 2,
+   "label": "General",
+   "visibility": "Private"
+  },
+  {
+   "mail": "socialclub@contosonordics.com",
+   "displayName": "Social Club",
+   "ownerCount": 1,
+   "label": "Confidential",
+   "visibility": "Public"
+  },
+  {
+   "mail": "copilotpilot@contosonordics.com",
+   "displayName": "Copilot Pilot",
+   "ownerCount": 2,
+   "label": null,
+   "visibility": "Private"
+  },
+  {
+   "mail": "vendorportal@contosonordics.com",
+   "displayName": "Vendor Portal",
+   "ownerCount": 2,
+   "label": "Confidential",
+   "visibility": "Private"
+  },
+  {
+   "mail": "nordicsleadership@contosonordics.com",
+   "displayName": "Nordics Leadership",
+   "ownerCount": 2,
+   "label": "General",
+   "visibility": "Private"
+  },
+  {
+   "mail": "research@contosonordics.com",
+   "displayName": "Research",
+   "ownerCount": 3,
+   "label": "Highly Confidential",
+   "visibility": "Public"
+  },
+  {
+   "mail": "qa@contosonordics.com",
+   "displayName": "QA",
+   "ownerCount": 1,
+   "label": "Highly Confidential",
+   "visibility": "Private"
+  },
+  {
+   "mail": "supporttier2@contosonordics.com",
+   "displayName": "Support Tier 2",
+   "ownerCount": 3,
+   "label": "Public",
+   "visibility": "Private"
+  },
+  {
+   "mail": "partners@contosonordics.com",
+   "displayName": "Partners",
+   "ownerCount": 3,
+   "label": null,
+   "visibility": "Public"
+  },
+  {
+   "mail": "recruiting@contosonordics.com",
+   "displayName": "Recruiting",
+   "ownerCount": 0,
+   "label": "Public",
+   "visibility": "Private"
+  },
+  {
+   "mail": "events2026@contosonordics.com",
+   "displayName": "Events 2026",
+   "ownerCount": 2,
+   "label": "Public",
+   "visibility": "Public"
+  },
+  {
+   "mail": "compliance@contosonordics.com",
+   "displayName": "Compliance",
+   "ownerCount": 2,
+   "label": "General",
+   "visibility": "Private"
+  },
+  {
+   "mail": "dataplatform@contosonordics.com",
+   "displayName": "Data Platform",
+   "ownerCount": 1,
+   "label": null,
+   "visibility": "Private"
+  },
+  {
+   "mail": "security@contosonordics.com",
+   "displayName": "Security",
+   "ownerCount": 2,
+   "label": "Public",
+   "visibility": "Public"
+  }
+ ],
+ "sites": [
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/SalesEMEA",
+   "title": "Sales EMEA",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "salesemea@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 14442,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|356794469_o",
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 4,
+   "uniqueItems": 2435,
+   "anyoneLinks": [],
+   "eeeuItems": [
+    {
+     "path": "/sites/SalesEMEA/Shared Documents/Handbook-0.xlsx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/SalesEMEA/Shared Documents/Payroll export-1.xlsx",
+     "principal": "Everyone except external users"
+    }
+   ],
+   "storageGB": 46.6,
+   "lastContentModified": "2026-02-17T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Finance",
+   "title": "Finance",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "Public",
+   "groupEmail": "finance@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 21170,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|479561535_o"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via Finance Members"
+   ],
+   "guestUsers": [
+    {
+     "upn": "ingrid.moe8_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "lars.holm18_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "hanna.nilsen5_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Finance Members"
+    }
+   ],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [
+    {
+     "path": "/sites/Finance/Shared Documents/Org chart-0.docx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/Finance/Shared Documents/Payroll export-1.xlsx",
+     "principal": "Everyone except external users"
+    }
+   ],
+   "storageGB": 18.5,
+   "lastContentModified": "2026-07-06T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/HR",
+   "title": "HR",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "hr@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 5021,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|563695859_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via HR Visitors"
+   ],
+   "guestUsers": [],
+   "uniqueLists": 2,
+   "uniqueItems": 4,
+   "anyoneLinks": [
+    {
+     "path": "/sites/HR/Shared Documents/Offers/Drafts",
+     "linkType": "AnonymousView",
+     "isFolder": true,
+     "created": "2024-12-04T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/HR/Shared Documents/Offers/forecast-79.pptx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2026-06-15T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/HR/Shared Documents/Exports/pricing-81.pptx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2024-09-07T00:00:00Z",
+     "expires": "2026-08-30T00:00:00Z"
+    }
+   ],
+   "eeeuItems": [],
+   "storageGB": 3.0,
+   "lastContentModified": "2026-05-07T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Marketing",
+   "title": "Marketing",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "Highly Confidential",
+   "groupEmail": "marketing@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 10180,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|385779731_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via Marketing Visitors"
+   ],
+   "guestUsers": [
+    {
+     "upn": "hanna.nilsen5_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "axel.berg25_gmail_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Marketing Members"
+    }
+   ],
+   "uniqueLists": 4,
+   "uniqueItems": 735,
+   "anyoneLinks": [],
+   "eeeuItems": [
+    {
+     "path": "/sites/Marketing/Shared Documents/Payroll export-0.docx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/Marketing/Shared Documents/Templates-1.xlsx",
+     "principal": "Everyone except external users"
+    }
+   ],
+   "storageGB": 34.8,
+   "lastContentModified": "2025-11-17T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Legal",
+   "title": "Legal",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "Confidential",
+   "groupEmail": "legal@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 1396,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|976029306_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via Legal Visitors"
+   ],
+   "guestUsers": [
+    {
+     "upn": "emma.moe19_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "henrik.nilsen7_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    }
+   ],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [
+    {
+     "path": "/sites/Legal/Shared Documents/Q3/forecast-72.xlsx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2026-01-02T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Legal/Shared Documents/Offers/customers-66.pptx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2024-06-23T00:00:00Z",
+     "expires": "2026-08-24T00:00:00Z"
+    },
+    {
+     "path": "/sites/Legal/Shared Documents/Q3/Archive",
+     "linkType": "AnonymousView",
+     "isFolder": true,
+     "created": "2025-08-21T00:00:00Z",
+     "expires": null
+    }
+   ],
+   "eeeuItems": [],
+   "storageGB": 4.3,
+   "lastContentModified": "2026-06-11T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Board",
+   "title": "Board",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "Highly Confidential",
+   "groupEmail": "board@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 3120,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|807181593_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via Board Members"
+   ],
+   "guestUsers": [],
+   "uniqueLists": 4,
+   "uniqueItems": 86,
+   "anyoneLinks": [
+    {
+     "path": "/sites/Board/Shared Documents/Q3/roadmap-29.docx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2026-07-30T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Board/Shared Documents/Customer data/salaries-32.xlsx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2025-12-02T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Board/Shared Documents/Pricing/salaries-16.pdf",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2025-05-17T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Board/Shared Documents/Contracts/roadmap-68.pdf",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2026-07-14T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Board/Shared Documents/Board packs/customers-14.pdf",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2025-04-10T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Board/Shared Documents/Q3/Drafts",
+     "linkType": "AnonymousView",
+     "isFolder": true,
+     "created": "2024-11-04T00:00:00Z",
+     "expires": null
+    }
+   ],
+   "eeeuItems": [],
+   "storageGB": 1.1,
+   "lastContentModified": "2026-01-03T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Product",
+   "title": "Product",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "Public",
+   "groupEmail": "product@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 32834,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|825456426_o",
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "emma.moe19_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    }
+   ],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 76.9,
+   "lastContentModified": "2026-06-15T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Engineering",
+   "title": "Engineering",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "General",
+   "groupEmail": "engineering@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 5684,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|871509654_o",
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 1,
+   "uniqueItems": 10,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 5.1,
+   "lastContentModified": "2026-06-01T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/CustomerSuccess",
+   "title": "Customer Success",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "Disabled",
+   "sensitivityLabel": "Confidential",
+   "groupEmail": "customersuccess@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 1879,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|407252548_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 4,
+   "uniqueItems": 15,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 4.8,
+   "lastContentModified": "2025-09-26T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/ITOperations",
+   "title": "IT Operations",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "",
+   "groupEmail": "itoperations@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 2802,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|391239923_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 6.7,
+   "lastContentModified": "2026-09-17T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Procurement",
+   "title": "Procurement",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "General",
+   "groupEmail": "procurement@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 6706,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|410760997_o",
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "ola.jensen16_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "lars.lund14_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Procurement Visitors"
+    },
+    {
+     "upn": "tomas.berg6_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Procurement Visitors"
+    },
+    {
+     "upn": "axel.berg25_gmail_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Procurement Members"
+    },
+    {
+     "upn": "eva.lund9_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Procurement Visitors"
+    },
+    {
+     "upn": "lars.holm18_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "lars.nilsen27_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "liv.berg10_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Procurement Visitors"
+    },
+    {
+     "upn": "anna.nilsen23_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Procurement Members"
+    }
+   ],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [
+    {
+     "path": "/sites/Procurement/Shared Documents/Org chart-0.docx",
+     "principal": "Everyone except external users"
+    }
+   ],
+   "storageGB": 8.9,
+   "lastContentModified": "2025-08-16T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Facilities",
+   "title": "Facilities",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "facilities@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 1199,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|924047476_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via Facilities Members"
+   ],
+   "guestUsers": [
+    {
+     "upn": "henrik.moe26_litware_fi#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "hanna.nilsen5_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Facilities Visitors"
+    },
+    {
+     "upn": "lars.lund14_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "ingrid.moe8_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Facilities Members"
+    },
+    {
+     "upn": "maria.holm28_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Facilities Visitors"
+    },
+    {
+     "upn": "emma.moe19_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "petter.berg20_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Facilities Visitors"
+    },
+    {
+     "upn": "anna.nilsen23_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "mats.koski32_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    }
+   ],
+   "uniqueLists": 2,
+   "uniqueItems": 0,
+   "anyoneLinks": [
+    {
+     "path": "/sites/Facilities/Shared Documents/Offers/roadmap-89.pptx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2024-11-03T00:00:00Z",
+     "expires": "2026-10-03T00:00:00Z"
+    },
+    {
+     "path": "/sites/Facilities/Shared Documents/Customer data/pricing-14.docx",
+     "linkType": "AnonymousEdit",
+     "isFolder": false,
+     "created": "2026-08-22T00:00:00Z",
+     "expires": "2026-10-05T00:00:00Z"
+    },
+    {
+     "path": "/sites/Facilities/Shared Documents/Exports/2026",
+     "linkType": "AnonymousView",
+     "isFolder": true,
+     "created": "2024-08-27T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Facilities/Shared Documents/Q3/customers-88.xlsx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2026-02-25T00:00:00Z",
+     "expires": "2026-10-12T00:00:00Z"
+    },
+    {
+     "path": "/sites/Facilities/Shared Documents/Exports/forecast-18.xlsx",
+     "linkType": "AnonymousEdit",
+     "isFolder": false,
+     "created": "2025-11-17T00:00:00Z",
+     "expires": "2026-10-15T00:00:00Z"
+    }
+   ],
+   "eeeuItems": [],
+   "storageGB": 3.3,
+   "lastContentModified": "2025-11-08T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/MAProjectFalcon",
+   "title": "M&A Project Falcon",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "maprojectfalcon@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 2877,
+   "itemScanTruncated": false,
+   "admins": [],
+   "broadPrincipals": [
+    "Everyone except external users via M&A Project Falcon Members"
+   ],
+   "guestUsers": [],
+   "uniqueLists": 4,
+   "uniqueItems": 119,
+   "anyoneLinks": [
+    {
+     "path": "/sites/MAProjectFalcon/Shared Documents/Contracts/NDA-67.pptx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2025-03-10T00:00:00Z",
+     "expires": "2026-09-28T00:00:00Z"
+    },
+    {
+     "path": "/sites/MAProjectFalcon/Shared Documents/Pricing/forecast-72.xlsx",
+     "linkType": "AnonymousEdit",
+     "isFolder": false,
+     "created": "2026-04-01T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/MAProjectFalcon/Shared Documents/Contracts/customers-37.xlsx",
+     "linkType": "AnonymousEdit",
+     "isFolder": false,
+     "created": "2026-02-25T00:00:00Z",
+     "expires": "2026-10-17T00:00:00Z"
+    },
+    {
+     "path": "/sites/MAProjectFalcon/Shared Documents/Contracts/roadmap-14.pptx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2024-12-01T00:00:00Z",
+     "expires": "2026-10-07T00:00:00Z"
+    },
+    {
+     "path": "/sites/MAProjectFalcon/Shared Documents/Exports/Archive",
+     "linkType": "AnonymousView",
+     "isFolder": true,
+     "created": "2024-07-16T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/MAProjectFalcon/Shared Documents/Exports/customers-93.pptx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2025-09-17T00:00:00Z",
+     "expires": null
+    }
+   ],
+   "eeeuItems": [],
+   "storageGB": 2.4,
+   "lastContentModified": "2025-10-04T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Payroll",
+   "title": "Payroll",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "payroll@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 8420,
+   "itemScanTruncated": true,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|162740951_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone (direct)"
+   ],
+   "guestUsers": [],
+   "uniqueLists": 2,
+   "uniqueItems": 26,
+   "anyoneLinks": [
+    {
+     "path": "/sites/Payroll/Shared Documents/Contracts/NDA-39.pdf",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2025-08-27T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Payroll/Shared Documents/Exports/2026",
+     "linkType": "AnonymousView",
+     "isFolder": true,
+     "created": "2025-09-06T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Payroll/Shared Documents/Board packs/salaries-89.pdf",
+     "linkType": "AnonymousEdit",
+     "isFolder": false,
+     "created": "2025-04-14T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Payroll/Shared Documents/Board packs/Drafts",
+     "linkType": "AnonymousEdit",
+     "isFolder": true,
+     "created": "2026-03-15T00:00:00Z",
+     "expires": null
+    }
+   ],
+   "eeeuItems": [],
+   "storageGB": 212.0,
+   "lastContentModified": "2026-03-14T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/AllHands",
+   "title": "All Hands",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "General",
+   "groupEmail": "allhands@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 61000,
+   "itemScanTruncated": true,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|867939441_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via All Hands Members"
+   ],
+   "guestUsers": [],
+   "uniqueLists": 1,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 4.8,
+   "lastContentModified": "2026-08-05T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/SocialClub",
+   "title": "Social Club",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExistingExternalUserSharingOnly",
+   "sensitivityLabel": "Confidential",
+   "groupEmail": "socialclub@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 442,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|570569069_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 4,
+   "uniqueItems": 9,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 0.9,
+   "lastContentModified": "2026-06-13T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/CopilotPilot",
+   "title": "Copilot Pilot",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExistingExternalUserSharingOnly",
+   "sensitivityLabel": "",
+   "groupEmail": "copilotpilot@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 2761,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|689093416_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "ola.jensen16_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Copilot Pilot Members"
+    }
+   ],
+   "uniqueLists": 4,
+   "uniqueItems": 37,
+   "anyoneLinks": [],
+   "eeeuItems": [
+    {
+     "path": "/sites/CopilotPilot/Shared Documents/Handbook-0.xlsx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/CopilotPilot/Shared Documents/Org chart-1.docx",
+     "principal": "Everyone except external users"
+    }
+   ],
+   "storageGB": 10.4,
+   "lastContentModified": "2025-12-07T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/VendorPortal",
+   "title": "Vendor Portal",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "Confidential",
+   "groupEmail": "vendorportal@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 1086,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|590002667_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 3.5,
+   "lastContentModified": "2025-10-18T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/NordicsLeadership",
+   "title": "Nordics Leadership",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExistingExternalUserSharingOnly",
+   "sensitivityLabel": "General",
+   "groupEmail": "nordicsleadership@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 4865,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|412312207_o",
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via Nordics Leadership Visitors"
+   ],
+   "guestUsers": [
+    {
+     "upn": "axel.dahl29_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Nordics Leadership Members"
+    },
+    {
+     "upn": "lars.lund14_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    }
+   ],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [
+    {
+     "path": "/sites/NordicsLeadership/Shared Documents/Org chart-0.xlsx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/NordicsLeadership/Shared Documents/Org chart-1.xlsx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/NordicsLeadership/Shared Documents/Templates-2.docx",
+     "principal": "Everyone except external users"
+    }
+   ],
+   "storageGB": 3.7,
+   "lastContentModified": "2026-06-05T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Research",
+   "title": "Research",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "Highly Confidential",
+   "groupEmail": "research@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 809,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|404387934_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 2,
+   "uniqueItems": 78,
+   "anyoneLinks": [
+    {
+     "path": "/sites/Research/Shared Documents/Board packs/NDA-27.pdf",
+     "linkType": "AnonymousEdit",
+     "isFolder": false,
+     "created": "2025-12-02T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Research/Shared Documents/Customer data/pricing-93.pptx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2026-04-01T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Research/Shared Documents/Contracts/Archive",
+     "linkType": "AnonymousEdit",
+     "isFolder": true,
+     "created": "2025-04-24T00:00:00Z",
+     "expires": "2026-10-12T00:00:00Z"
+    },
+    {
+     "path": "/sites/Research/Shared Documents/Board packs/forecast-10.pptx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2026-04-01T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/Research/Shared Documents/Board packs/roadmap-63.pptx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2025-04-15T00:00:00Z",
+     "expires": null
+    }
+   ],
+   "eeeuItems": [],
+   "storageGB": 1.0,
+   "lastContentModified": "2026-06-11T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/QA",
+   "title": "QA",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "Disabled",
+   "sensitivityLabel": "Highly Confidential",
+   "groupEmail": "qa@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 5192,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|347175496_o",
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "kari.koski33_litware_fi#EXT#@contosonordics.onmicrosoft.com",
+     "via": "QA Members"
+    },
+    {
+     "upn": "jonas.holm36_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "QA Visitors"
+    },
+    {
+     "upn": "ola.dahl0_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "tomas.berg6_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "QA Visitors"
+    },
+    {
+     "upn": "eva.holm15_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "QA Visitors"
+    }
+   ],
+   "uniqueLists": 1,
+   "uniqueItems": 2489,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 13.9,
+   "lastContentModified": "2025-09-14T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/SupportTier2",
+   "title": "Support Tier 2",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "Public",
+   "groupEmail": "supporttier2@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 5308,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|476335577_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 1,
+   "uniqueItems": 10,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 9.5,
+   "lastContentModified": "2025-10-14T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Partners",
+   "title": "Partners",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExistingExternalUserSharingOnly",
+   "sensitivityLabel": "",
+   "groupEmail": "partners@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 5061,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|389478620_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via Partners Visitors"
+   ],
+   "guestUsers": [],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 15.5,
+   "lastContentModified": "2026-09-16T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Recruiting",
+   "title": "Recruiting",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "Public",
+   "groupEmail": "recruiting@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 7925,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|464448636_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "henrik.nilsen7_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Recruiting Visitors"
+    },
+    {
+     "upn": "jonas.jensen34_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Recruiting Visitors"
+    },
+    {
+     "upn": "axel.berg25_gmail_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Recruiting Members"
+    }
+   ],
+   "uniqueLists": 1,
+   "uniqueItems": 166,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 25.5,
+   "lastContentModified": "2025-11-02T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Events2026",
+   "title": "Events 2026",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "Public",
+   "groupEmail": "events2026@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 102,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|818586756_o",
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via Events 2026 Members"
+   ],
+   "guestUsers": [],
+   "uniqueLists": 1,
+   "uniqueItems": 8,
+   "anyoneLinks": [],
+   "eeeuItems": [
+    {
+     "path": "/sites/Events2026/Shared Documents/Payroll export-0.xlsx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/Events2026/Shared Documents/Templates-1.docx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/Events2026/Shared Documents/Org chart-2.docx",
+     "principal": "Everyone except external users"
+    }
+   ],
+   "storageGB": 0.1,
+   "lastContentModified": "2026-06-09T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Compliance",
+   "title": "Compliance",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExistingExternalUserSharingOnly",
+   "sensitivityLabel": "General",
+   "groupEmail": "compliance@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 7910,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|873383684_o",
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "tomas.berg6_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Compliance Members"
+    },
+    {
+     "upn": "petter.berg2_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Compliance Members"
+    }
+   ],
+   "uniqueLists": 1,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 13.2,
+   "lastContentModified": "2026-04-24T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/DataPlatform",
+   "title": "Data Platform",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "dataplatform@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 10841,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|440053101_o",
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via Data Platform Visitors"
+   ],
+   "guestUsers": [],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [
+    {
+     "path": "/sites/DataPlatform/Shared Documents/Board packs/NDA-40.docx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2025-01-11T00:00:00Z",
+     "expires": null
+    },
+    {
+     "path": "/sites/DataPlatform/Shared Documents/Offers/2026",
+     "linkType": "AnonymousView",
+     "isFolder": true,
+     "created": "2025-08-10T00:00:00Z",
+     "expires": "2026-09-13T00:00:00Z"
+    }
+   ],
+   "eeeuItems": [
+    {
+     "path": "/sites/DataPlatform/Shared Documents/Payroll export-0.docx",
+     "principal": "Everyone except external users"
+    }
+   ],
+   "storageGB": 21.9,
+   "lastContentModified": "2025-10-23T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Security",
+   "title": "Security",
+   "template": "GROUP#0",
+   "kind": "Team site (M365 group)",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "Public",
+   "groupEmail": "security@contosonordics.com",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 2813,
+   "itemScanTruncated": false,
+   "admins": [
+    "c:0o.c|federateddirectoryclaimprovider|962375128_o",
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via Security Visitors"
+   ],
+   "guestUsers": [],
+   "uniqueLists": 2,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [
+    {
+     "path": "/sites/Security/Shared Documents/Org chart-0.xlsx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/Security/Shared Documents/Templates-1.docx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/Security/Shared Documents/Templates-2.xlsx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/Security/Shared Documents/Org chart-3.docx",
+     "principal": "Everyone except external users"
+    }
+   ],
+   "storageGB": 9.2,
+   "lastContentModified": "2026-08-22T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Intranet",
+   "title": "Intranet",
+   "template": "SITEPAGEPUBLISHING#0",
+   "kind": "Communication site",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "Highly Confidential",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 8778,
+   "itemScanTruncated": false,
+   "admins": [
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via Intranet Visitors"
+   ],
+   "guestUsers": [],
+   "uniqueLists": 1,
+   "uniqueItems": 1,
+   "anyoneLinks": [],
+   "eeeuItems": [
+    {
+     "path": "/sites/Intranet/Shared Documents/Handbook-0.xlsx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/Intranet/Shared Documents/Templates-1.xlsx",
+     "principal": "Everyone except external users"
+    }
+   ],
+   "storageGB": 20.2,
+   "lastContentModified": "2026-02-11T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Policies",
+   "title": "Policies",
+   "template": "SITEPAGEPUBLISHING#0",
+   "kind": "Communication site",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "Confidential",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 660,
+   "itemScanTruncated": false,
+   "admins": [
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 2,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 0.6,
+   "lastContentModified": "2025-11-22T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/News",
+   "title": "News",
+   "template": "SITEPAGEPUBLISHING#0",
+   "kind": "Communication site",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 4001,
+   "itemScanTruncated": false,
+   "admins": [
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via News Visitors"
+   ],
+   "guestUsers": [],
+   "uniqueLists": 4,
+   "uniqueItems": 2,
+   "anyoneLinks": [],
+   "eeeuItems": [
+    {
+     "path": "/sites/News/Shared Documents/Org chart-0.docx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/News/Shared Documents/Payroll export-1.docx",
+     "principal": "Everyone except external users"
+    }
+   ],
+   "storageGB": 13.4,
+   "lastContentModified": "2026-08-24T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Benefits",
+   "title": "Benefits",
+   "template": "SITEPAGEPUBLISHING#0",
+   "kind": "Communication site",
+   "sharingCapability": "Disabled",
+   "sensitivityLabel": "Highly Confidential",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 2017,
+   "itemScanTruncated": false,
+   "admins": [
+    "admin@contosonordics.com"
+   ],
+   "broadPrincipals": [
+    "Everyone except external users via Benefits Visitors"
+   ],
+   "guestUsers": [],
+   "uniqueLists": 2,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 1.0,
+   "lastContentModified": "2026-05-11T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/LegacyProjects",
+   "title": "Legacy Projects",
+   "template": "STS#3",
+   "kind": "Site",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "Confidential",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 6560,
+   "itemScanTruncated": false,
+   "admins": [
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "maria.holm28_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Legacy Projects Members"
+    },
+    {
+     "upn": "lars.nilsen27_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "anna.holm21_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Legacy Projects Members"
+    }
+   ],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [
+    {
+     "path": "/sites/LegacyProjects/Shared Documents/Contracts/forecast-96.pptx",
+     "linkType": "AnonymousEdit",
+     "isFolder": false,
+     "created": "2025-02-13T00:00:00Z",
+     "expires": "2026-09-26T00:00:00Z"
+    },
+    {
+     "path": "/sites/LegacyProjects/Shared Documents/Customer data/salaries-66.docx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2025-02-20T00:00:00Z",
+     "expires": "2026-09-03T00:00:00Z"
+    }
+   ],
+   "eeeuItems": [],
+   "storageGB": 15.7,
+   "lastContentModified": "2026-07-29T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Archive2019",
+   "title": "Archive 2019",
+   "template": "STS#3",
+   "kind": "Site",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 169,
+   "itemScanTruncated": false,
+   "admins": [
+    "admin@contosonordics.com",
+    "it.ops@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "emma.moe19_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "ola.jensen11_litware_fi#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "anna.nilsen23_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Archive 2019 Visitors"
+    }
+   ],
+   "uniqueLists": 4,
+   "uniqueItems": 8,
+   "anyoneLinks": [
+    {
+     "path": "/sites/Archive2019/Shared Documents/Exports/customers-55.docx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2025-09-11T00:00:00Z",
+     "expires": "2026-11-10T00:00:00Z"
+    },
+    {
+     "path": "/sites/Archive2019/Shared Documents/Offers/roadmap-4.docx",
+     "linkType": "AnonymousView",
+     "isFolder": false,
+     "created": "2024-11-12T00:00:00Z",
+     "expires": null
+    }
+   ],
+   "eeeuItems": [
+    {
+     "path": "/sites/Archive2019/Shared Documents/Org chart-0.docx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/Archive2019/Shared Documents/Org chart-1.docx",
+     "principal": "Everyone except external users"
+    },
+    {
+     "path": "/sites/Archive2019/Shared Documents/Templates-2.xlsx",
+     "principal": "Everyone except external users"
+    }
+   ],
+   "storageGB": 0.2,
+   "lastContentModified": "2025-11-03T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics.sharepoint.com/sites/Templates",
+   "title": "Templates",
+   "template": "STS#3",
+   "kind": "Site",
+   "sharingCapability": "ExistingExternalUserSharingOnly",
+   "sensitivityLabel": "Public",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 6897,
+   "itemScanTruncated": false,
+   "admins": [],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 1,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 26.1,
+   "lastContentModified": "2025-09-17T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics-my.sharepoint.com/personal/anna_berg_contosonordics_com",
+   "title": "Anna Berg",
+   "template": "SPSPERS#10",
+   "kind": "OneDrive",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 3975,
+   "itemScanTruncated": false,
+   "admins": [
+    "anna.berg@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 0,
+   "uniqueItems": 13,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 5.6,
+   "lastContentModified": "2026-06-24T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics-my.sharepoint.com/personal/erik_lund_contosonordics_com",
+   "title": "Erik Lund",
+   "template": "SPSPERS#10",
+   "kind": "OneDrive",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 1246,
+   "itemScanTruncated": false,
+   "admins": [
+    "erik.lund@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "hanna.nilsen5_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Erik Lund Members"
+    },
+    {
+     "upn": "anna.holm21_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    }
+   ],
+   "uniqueLists": 0,
+   "uniqueItems": 13,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 2.1,
+   "lastContentModified": "2026-05-09T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics-my.sharepoint.com/personal/lars_holm_contosonordics_com",
+   "title": "Lars Holm",
+   "template": "SPSPERS#10",
+   "kind": "OneDrive",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 2169,
+   "itemScanTruncated": false,
+   "admins": [
+    "lars.holm@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "anna.nilsen23_adatum_dk#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Lars Holm Visitors"
+    },
+    {
+     "upn": "petter.berg2_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Lars Holm Members"
+    }
+   ],
+   "uniqueLists": 0,
+   "uniqueItems": 124,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 4.0,
+   "lastContentModified": "2026-05-28T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics-my.sharepoint.com/personal/maria_dahl_contosonordics_com",
+   "title": "Maria Dahl",
+   "template": "SPSPERS#10",
+   "kind": "OneDrive",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 1316,
+   "itemScanTruncated": false,
+   "admins": [
+    "maria.dahl@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "axel.koski4_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    }
+   ],
+   "uniqueLists": 0,
+   "uniqueItems": 1,
+   "anyoneLinks": [
+    {
+     "path": "/personal/maria_dahl_contosonordics_com/Documents/Contracts/pricing-25.pdf",
+     "linkType": "AnonymousEdit",
+     "isFolder": false,
+     "created": "2025-09-10T00:00:00Z",
+     "expires": null
+    }
+   ],
+   "eeeuItems": [],
+   "storageGB": 2.1,
+   "lastContentModified": "2026-05-27T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics-my.sharepoint.com/personal/ola_nilsen_contosonordics_com",
+   "title": "Ola Nilsen",
+   "template": "SPSPERS#10",
+   "kind": "OneDrive",
+   "sharingCapability": "Disabled",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 2701,
+   "itemScanTruncated": false,
+   "admins": [
+    "ola.nilsen@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "ingrid.moe8_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Ola Nilsen Members"
+    },
+    {
+     "upn": "henrik.nilsen7_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Ola Nilsen Visitors"
+    }
+   ],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 1.8,
+   "lastContentModified": "2025-10-05T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics-my.sharepoint.com/personal/sofia_koski_contosonordics_com",
+   "title": "Sofia Koski",
+   "template": "SPSPERS#10",
+   "kind": "OneDrive",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 15285,
+   "itemScanTruncated": false,
+   "admins": [
+    "sofia.koski@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 20.0,
+   "lastContentModified": "2026-08-31T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics-my.sharepoint.com/personal/jonas_jensen_contosonordics_com",
+   "title": "Jonas Jensen",
+   "template": "SPSPERS#10",
+   "kind": "OneDrive",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 4554,
+   "itemScanTruncated": false,
+   "admins": [
+    "jonas.jensen@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 0,
+   "uniqueItems": 6,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 11.3,
+   "lastContentModified": "2026-07-15T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics-my.sharepoint.com/personal/emma_moe_contosonordics_com",
+   "title": "Emma Moe",
+   "template": "SPSPERS#10",
+   "kind": "OneDrive",
+   "sharingCapability": "ExistingExternalUserSharingOnly",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 1421,
+   "itemScanTruncated": false,
+   "admins": [
+    "emma.moe@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "tomas.berg6_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    },
+    {
+     "upn": "petter.berg20_fabrikam_com#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Emma Moe Members"
+    }
+   ],
+   "uniqueLists": 0,
+   "uniqueItems": 14,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 2.5,
+   "lastContentModified": "2026-05-31T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics-my.sharepoint.com/personal/nils_aas_contosonordics_com",
+   "title": "Nils Aas",
+   "template": "SPSPERS#10",
+   "kind": "OneDrive",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 11126,
+   "itemScanTruncated": false,
+   "admins": [
+    "nils.aas@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 0,
+   "uniqueItems": 124,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 28.4,
+   "lastContentModified": "2026-05-29T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics-my.sharepoint.com/personal/ingrid_vik_contosonordics_com",
+   "title": "Ingrid Vik",
+   "template": "SPSPERS#10",
+   "kind": "OneDrive",
+   "sharingCapability": "ExternalUserSharingOnly",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 9358,
+   "itemScanTruncated": false,
+   "admins": [
+    "ingrid.vik@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 0,
+   "uniqueItems": 0,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 5.6,
+   "lastContentModified": "2026-05-08T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics-my.sharepoint.com/personal/kari_sand_contosonordics_com",
+   "title": "Kari Sand",
+   "template": "SPSPERS#10",
+   "kind": "OneDrive",
+   "sharingCapability": "ExternalUserAndGuestSharing",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 1222,
+   "itemScanTruncated": false,
+   "admins": [
+    "kari.sand@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [
+    {
+     "upn": "lars.nilsen27_northwind_se#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Kari Sand Members"
+    },
+    {
+     "upn": "axel.dahl29_wingtiptoys_no#EXT#@contosonordics.onmicrosoft.com",
+     "via": "Sharing link"
+    }
+   ],
+   "uniqueLists": 0,
+   "uniqueItems": 2,
+   "anyoneLinks": [
+    {
+     "path": "/personal/kari_sand_contosonordics_com/Documents/Offers/roadmap-14.pptx",
+     "linkType": "AnonymousEdit",
+     "isFolder": false,
+     "created": "2026-09-12T00:00:00Z",
+     "expires": null
+    }
+   ],
+   "eeeuItems": [],
+   "storageGB": 3.0,
+   "lastContentModified": "2026-08-06T00:00:00Z"
+  },
+  {
+   "url": "https://contosonordics-my.sharepoint.com/personal/petter_li_contosonordics_com",
+   "title": "Petter Li",
+   "template": "SPSPERS#10",
+   "kind": "OneDrive",
+   "sharingCapability": "ExistingExternalUserSharingOnly",
+   "sensitivityLabel": "",
+   "groupEmail": "",
+   "owner": "admin@contosonordics.com",
+   "itemCount": 932,
+   "itemScanTruncated": false,
+   "admins": [
+    "petter.li@contosonordics.com"
+   ],
+   "broadPrincipals": [],
+   "guestUsers": [],
+   "uniqueLists": 0,
+   "uniqueItems": 8,
+   "anyoneLinks": [],
+   "eeeuItems": [],
+   "storageGB": 1.9,
+   "lastContentModified": "2025-10-25T00:00:00Z"
+  }
+ ],
+ "itemScanSkipped": false
+}
