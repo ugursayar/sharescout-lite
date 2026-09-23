@@ -54,6 +54,8 @@ Try it on demo data first. No tenant is needed:
 .\ShareScout-Audit.ps1 -MockDataPath .\test\mock-tenant.json
 ```
 
+The demo data carries an `asOf` date that the script uses as "today" in mock mode, so the demo gives the same result on any day; real runs use the clock.
+
 Then run it against your tenant:
 
 ```powershell

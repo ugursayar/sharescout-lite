@@ -163,7 +163,11 @@ function Get-TenantData {
 
     if ($MockPath) {
         Write-Step "Loading MOCK data from $MockPath"
-        return (Get-Content -Path $MockPath -Raw | ConvertFrom-Json)
+        $raw = Get-Content -Path $MockPath -Raw | ConvertFrom-Json
+        # Mock dates are absolute, so age/inactivity math runs against the mock's own asOf instead of
+        # the clock; otherwise the demo output (and the published sample figures) drift day by day.
+        if ($raw.asOf) { $script:nowUtc = ([datetime]$raw.asOf).ToUniversalTime() }
+        return $raw
     }
 
     Write-Step "Connecting to Microsoft Graph (read-only)..."
