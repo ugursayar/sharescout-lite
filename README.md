@@ -78,3 +78,7 @@ The CSVs contain file paths and site names. Treat them as confidential.
 The Lite script in this repository is released under the [MIT License](LICENSE). The ShareScout Solo and Pro editions are separate commercial products and are not covered by this license.
 
 ShareScout is an independent tool and is not affiliated with, endorsed by, or sponsored by Microsoft.
+
+## Author
+
+Built and maintained by Uğur Sayar, a SharePoint and Microsoft 365 architect in Istanbul ([LinkedIn](https://www.linkedin.com/in/ugursayar)). Bug reports and pull requests are welcome through GitHub issues.
